@@ -1,7 +1,1 @@
-alert("hola");
-alert("Mundo hola");
-alert("Mundo hola");
-alert("Mundo hola");
-alert("Mundo hola");
-alert("Mundo hola");
-alert("Hola alert");
+alert("Hola soy una nueva alert");
